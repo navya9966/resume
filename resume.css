@@ -1,0 +1,9 @@
+body{
+	 border-color: black;  
+  border-style: solid;
+  margin: left; 
+}
+.explain{
+    color: blue;
+    text-decoration: underline;
+}
